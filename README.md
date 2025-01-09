@@ -1,5 +1,5 @@
 # Readme.md 
-this is the discriptive file to the repo
+this project is created by loacal system 
 # salary file 
- karan ji ki salary nahi aati hasi 
- 
+ pushing the project to the github id 
+
